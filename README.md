@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jklee341
-- 👀 I’m interested in semiconductors and nanotechnology, with a possible interest in IoT and robotics!
+- 👀 I’m interested in autonomus systems and machine learning.
 - 🌱 I’m currently learning Java...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: jklee341@gmail.com
